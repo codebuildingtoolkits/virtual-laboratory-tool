@@ -1,0 +1,8 @@
+c:\users\black\documents\visual studio 2012\Projects\WindowsApplication42\WindowsApplication42\bin\Debug\pwd.exe
+c:\users\black\documents\visual studio 2012\Projects\WindowsApplication42\WindowsApplication42\bin\Debug\pwd.pdb
+c:\users\black\documents\visual studio 2012\Projects\WindowsApplication42\WindowsApplication42\bin\Debug\pwd.xml
+c:\users\black\documents\visual studio 2012\Projects\WindowsApplication42\WindowsApplication42\obj\Debug\pwd.Resources.resources
+c:\users\black\documents\visual studio 2012\Projects\WindowsApplication42\WindowsApplication42\obj\Debug\pwd.vbproj.GenerateResource.Cache
+c:\users\black\documents\visual studio 2012\Projects\WindowsApplication42\WindowsApplication42\obj\Debug\pwd.exe
+c:\users\black\documents\visual studio 2012\Projects\WindowsApplication42\WindowsApplication42\obj\Debug\pwd.xml
+c:\users\black\documents\visual studio 2012\Projects\WindowsApplication42\WindowsApplication42\obj\Debug\pwd.pdb

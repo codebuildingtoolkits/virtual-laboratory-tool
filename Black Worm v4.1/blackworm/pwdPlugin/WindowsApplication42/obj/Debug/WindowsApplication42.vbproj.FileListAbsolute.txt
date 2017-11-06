@@ -1,0 +1,8 @@
+c:\users\black\documents\visual studio 2012\Projects\WindowsApplication42\WindowsApplication42\bin\Debug\WindowsApplication42.exe
+c:\users\black\documents\visual studio 2012\Projects\WindowsApplication42\WindowsApplication42\bin\Debug\WindowsApplication42.pdb
+c:\users\black\documents\visual studio 2012\Projects\WindowsApplication42\WindowsApplication42\bin\Debug\WindowsApplication42.xml
+c:\users\black\documents\visual studio 2012\Projects\WindowsApplication42\WindowsApplication42\obj\Debug\WindowsApplication42.Resources.resources
+c:\users\black\documents\visual studio 2012\Projects\WindowsApplication42\WindowsApplication42\obj\Debug\WindowsApplication42.vbproj.GenerateResource.Cache
+c:\users\black\documents\visual studio 2012\Projects\WindowsApplication42\WindowsApplication42\obj\Debug\WindowsApplication42.exe
+c:\users\black\documents\visual studio 2012\Projects\WindowsApplication42\WindowsApplication42\obj\Debug\WindowsApplication42.xml
+c:\users\black\documents\visual studio 2012\Projects\WindowsApplication42\WindowsApplication42\obj\Debug\WindowsApplication42.pdb
